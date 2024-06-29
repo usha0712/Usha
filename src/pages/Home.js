@@ -62,6 +62,7 @@ const Home = () => {
               We priortize user connvenience, enhancing safety and efficiency
               imanaging household items.
             </p>
+            <hr style="border: 0; height: 1px; background: #333; margin: 20px 0;"></hr>
           </section>
 
           <section className="mt-16" id="about-us" ref={aboutUsRef}>
@@ -111,6 +112,7 @@ const Home = () => {
                 </p>
               </div>
             </div>
+            <hr style="border: 0; height: 1px; background: #333; margin: 20px 0;"></hr>
           </section>
 
           <h1 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-black py-4 text-center mt-10 md:text-5xl lg:text-6xl">
